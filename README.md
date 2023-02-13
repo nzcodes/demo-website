@@ -1,2 +1,2 @@
-# demo_website
+# demo-website
 Demo website for CodeCademy
